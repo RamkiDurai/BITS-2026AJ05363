@@ -13,7 +13,7 @@ Build and evaluate five supervised classification algorithms to classify breast 
 - **Preprocessing:** StandardScaler is included inside the Logistic Regression, KNN, and SVM pipelines. Decision Tree and Gaussian Naive Bayes use the numeric feature values directly. The scaler is fitted only on training data and is saved as part of each pipeline.
 
 ## c. GitHub Repository Link
-Add your repository URL here after creating the GitHub repository: **[PASTE YOUR GITHUB REPOSITORY URL]**
+Add your repository URL here after creating the GitHub repository: [**[PASTE YOUR GITHUB REPOSITORY URL]**](https://github.com/RamkiDurai/BITS-2026AJ05363/)
 
 ## d. Models used
 
